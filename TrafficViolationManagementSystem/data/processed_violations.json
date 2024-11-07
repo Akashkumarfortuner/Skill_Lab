@@ -1,0 +1,10 @@
+[
+  {
+    "data": {
+      "type": "Accident",
+      "severity": "High",
+      "timestamp": "2024-11-07T16:09:56.291Z"
+    },
+    "priority": 3
+  }
+]
